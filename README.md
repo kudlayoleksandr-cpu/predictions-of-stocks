@@ -205,8 +205,7 @@ The strategy includes filters:
 
 ## Disclaimer
 
-This is an educational project for algorithmic trading research. Cryptocurrency trading involves substantial risk. Past performance does not guarantee future results. Always do your own research and never invest more than you can afford to lose.
-
+This is an educational project for algorithmic trading research.
 ## License
 
 This project is provided as-is for educational purposes.
